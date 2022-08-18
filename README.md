@@ -27,6 +27,8 @@ I used weblinks and fellow developers to make this.
 ## Tests 
 I tested this throughout my coding to ensure it looks and functions the way I want.
 
+## Sreenshot
+[screenshot](./images/portfolio-screenshot.png)
 ## Questions
 If you have any questions about this project you may reach me below at: </br> 
 gerushays@gmail.com</br>
