@@ -34,4 +34,4 @@ Also you may check out my github link below at: </br>
 https://github.com/GerusHays
 
 live link to portfolio
-https://gerushays.github.io/Portfolio-2.0/
+https://gerushays.github.io/React-Portfolio/
